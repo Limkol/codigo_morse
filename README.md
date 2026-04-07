@@ -1,4 +1,4 @@
-# c-digo_morse
+# codigo_morse
 
 🔡 Tradutor de Código Morse
 
